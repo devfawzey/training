@@ -1,5 +1,7 @@
-# vue-project
-
+# training
+real wordl vue app 
+https://github.com/mutoe/vue3-realworld-example-app/tree/master
+https://volta.net/inbox
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
