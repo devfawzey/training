@@ -1,12 +1,11 @@
 @import "tailwindcss";
 
 @theme {
-  --color-main: blue;
+  --color-primary-mint: #2727a3;
 }
-
 
 @layer base {
   body {
-    background: var(--color-main);
+    @apply bg-gray-200 min-h-screen
   }
 }
